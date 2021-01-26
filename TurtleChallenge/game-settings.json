@@ -1,0 +1,29 @@
+{
+  "Beach": {
+    "Rows": 10,
+    "Cols": 10
+  },
+  "Exit": {
+    "Row": 10,
+    "Col": 10
+  },
+  "Turtle": {
+    "Row": 2,
+    "Col": 1,
+    "Orientation": "N"
+  },
+  "Mines": [
+    {
+      "Row": 1,
+      "Col": 3
+    },
+    {
+      "Row": 5,
+      "Col": 8
+    },
+    {
+      "Row": 6,
+      "Col": 2
+    }
+  ]
+}
